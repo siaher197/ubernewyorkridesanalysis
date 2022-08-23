@@ -2,8 +2,11 @@
 
 This analysis has provided much insight into the New York City Uber pickups in 2014. Some of the key findings include:
 Heavy increase in pickups during the month of September
+
 Reductions in pickups during holidays
+
 Clear difference in the distribution of hourly pickups between workdays and weekends
+
 Concentration of pickups in Manhattan Island and surrounding areas
 
 ![uber month](https://user-images.githubusercontent.com/109465506/186196862-ff54ff9d-f70b-4aac-97a6-8f82218a5e5f.png)
